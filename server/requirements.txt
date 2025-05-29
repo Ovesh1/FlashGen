@@ -1,0 +1,3 @@
+transformers
+pdfminer.six
+nltk
